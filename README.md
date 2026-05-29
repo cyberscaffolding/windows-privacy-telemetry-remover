@@ -1,5 +1,3 @@
-Certamente! Ecco il testo completo del tuo README.md per GitHub, già corretto e allineato alla versione Lite che hai caricato, pronto da copiare e incollare:
-
 Windows Privacy & Telemetry Remover (Scudo Lite)
 A small, focused Python tool to help IT administrators and advanced users reduce Windows telemetry, harden endpoints, and remove preinstalled bloatware. The repository contains a "Lite" script for quick cleanup and a PRO suite with extended hardening features (commercial).
 
